@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "name": "farm_erp_platform",
+  "provider": "supabase",
+  "db": {
+    "url": "postgresql://postgres:[YOUR-PASSWORD]@db.[YOUR-PROJECT-REF].supabase.co:5432/postgres"
+  }
+}
